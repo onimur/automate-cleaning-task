@@ -8,6 +8,10 @@ The project is intended to automate the task of cleaning up Android Studio proje
 git clone git@github.com:MurilloComino/automate-cleaning-task.git
 ```
 
+### Prerequisites
+
+You must have the gradlew files in the root directory of each project.
+
 ## How it works
 * Paste the cleanProject.bat file into the root directory where the projects you want to clean are located.
 ```
@@ -19,3 +23,4 @@ My projects
 ```
 
 * Then open the file. It will already clean up all projects.
+
