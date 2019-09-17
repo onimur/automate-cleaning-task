@@ -24,3 +24,5 @@ My projects
 
 * Then open the file. It will already clean up all projects.
 
+![](resources/1.gif)
+
